@@ -95,5 +95,3 @@ When the script is executed, it performs the following steps:
 4. Prints a summary and a portion of the content of each paper.
 5. Saves the collected data (title, summary, PDF link, and content) into a CSV file named `arxiv_papers.csv`.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
